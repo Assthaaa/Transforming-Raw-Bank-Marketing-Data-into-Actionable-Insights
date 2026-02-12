@@ -24,6 +24,6 @@ Dashboard Highlights & Key Insights:
 3. Financial Profile: Customers who subscribed to the term deposit generally maintained a higher average balance compared to those who did not.
 
 How to View the Project?
-Dashboard Preview: View the Bank Data Project.png file in this repository to see the final Tableau dashboard layout.
+Dashboard Preview: View the Bank Data.png file in this repository to see the final Tableau dashboard layout.
 
 Dataset: The analysis is based on the train.csv file included in the repository.
